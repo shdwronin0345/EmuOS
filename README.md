@@ -1,3 +1,4 @@
+*Look at Games Used ▶ 
 ## <sub><img loading="lazy" width="38" height="38" alt="" src="https://emupedia.net/beta/emuos/assets/images/logos/emupedia/emupedia-logo.svg" /></sub> Emupedia [![Contribute](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Emupedia/emupedia.github.io/pulls) [![Discord](https://img.shields.io/discord/510149138491506688.svg?logo=discord)](https://discord.gg/wXtGQ4p) [![Gitpod - Code Now](https://img.shields.io/badge/gitpod-code%20now-blue.svg)](https://gitpod.io#https://github.com/Emupedia/emupedia.github.io) [![GitHub last commit](https://img.shields.io/github/last-commit/Emupedia/emupedia.github.io.svg)](#-emupedia-----) [![GitHub repo size](https://img.shields.io/github/repo-size/Emupedia/emupedia.github.io.svg)](#-emupedia-----)
 
 ---
